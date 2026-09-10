@@ -1,0 +1,55 @@
+import java.io.*;
+
+class Program2
+{
+	public static void main(String args[]) throws IOException
+	{
+		System.out.print("Hello");
+		//Boolean IsInt(String s)
+		*/Int i = 0; //array index
+		Int count = 0; //number of Word objects in word array
+		Int sum = 0; //sum of integers
+		String word = null //token
+		String num = null //String of number
+		String buffer; //input file buffer
+		String[] ionames = new String[2] //array for input/output file names
+		Word[] words = new Word[100] //Array of word objects
+		StringTokenizer inline; //Stringtokenizer of current line
+		BufferedReader infile; //input file handle
+		PrintWriter outfile; //output file handle
+		Using getnames for file names in ionames
+		opens input and output file
+		reads a line from the input file
+		*/
+	}
+}
+
+class IOFile
+{
+	/*Methods 
+	Boolean getnames(String args[], String[] ioname
+	Boolean FileExist(String name)
+	Void FileBackup(String name, String ext)
+	String FileExtension(String name)
+	String FileName(String name)
+	String FilePath(String name)
+	BufferedReader openin(String name)
+	PrintWriter openout(String name)
+	*/
+	
+}
+
+class Word
+{
+	*/
+	Word(String word)
+	Int getCount()
+	String getWord()
+	Boolean isWord(String word)
+	Boolean isWordIgnoreCase(String word)
+	Void addOne()
+	Void print(PrintWriter out)
+	Int FindWord(Word[] list, String word, int n)
+
+	*/
+}
