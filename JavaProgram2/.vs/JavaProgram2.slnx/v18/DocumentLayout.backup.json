@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\JavaToCSharp\\JavaProgram2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD686E2-8D02-E35C-D405-E8B4D81D5B03}|JavaProgram2.csproj|c:\\users\\jjger\\onedrive\\documents\\personal projects\\javatocsharp\\javaprogram2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD686E2-8D02-E35C-D405-E8B4D81D5B03}|JavaProgram2.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\OOPCSharp\\Assignment3\\OOPAssignment3\\IOFile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOFile.cs",
+              "DocumentMoniker": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\OOPCSharp\\Assignment3\\OOPAssignment3\\IOFile.cs",
+              "RelativeDocumentMoniker": "..\\..\\OOPCSharp\\Assignment3\\OOPAssignment3\\IOFile.cs",
+              "ToolTip": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\OOPCSharp\\Assignment3\\OOPAssignment3\\IOFile.cs",
+              "RelativeToolTip": "..\\..\\OOPCSharp\\Assignment3\\OOPAssignment3\\IOFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:42:40.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\JavaToCSharp\\JavaProgram2\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\jjger\\OneDrive\\Documents\\Personal Projects\\JavaToCSharp\\JavaProgram2\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T14:47:08.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

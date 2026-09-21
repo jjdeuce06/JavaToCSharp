@@ -1,0 +1,16 @@
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\bin\Debug\net10.0\JavaProgram1.exe
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\bin\Debug\net10.0\JavaProgram1.deps.json
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\bin\Debug\net10.0\JavaProgram1.runtimeconfig.json
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\bin\Debug\net10.0\JavaProgram1.dll
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\bin\Debug\net10.0\JavaProgram1.pdb
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\obj\Debug\net10.0\JavaProgram1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\obj\Debug\net10.0\JavaProgram1.AssemblyInfoInputs.cache
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\obj\Debug\net10.0\JavaProgram1.AssemblyInfo.cs
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\obj\Debug\net10.0\JavaProgram1.csproj.CoreCompileInputs.cache
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\obj\Debug\net10.0\JavaProgram1.sourcelink.json
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\obj\Debug\net10.0\JavaProgram1.dll
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\obj\Debug\net10.0\refint\JavaProgram1.dll
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\obj\Debug\net10.0\JavaProgram1.pdb
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\obj\Debug\net10.0\JavaProgram1.genruntimeconfig.cache
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\obj\Debug\net10.0\ref\JavaProgram1.dll
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram1\obj\Debug\net10.0\JavaProg.7C0BB17E.Up2Date

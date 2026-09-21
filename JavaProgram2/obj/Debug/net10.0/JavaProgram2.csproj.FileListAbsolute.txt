@@ -1,0 +1,5 @@
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram2\obj\Debug\net10.0\JavaProgram2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram2\obj\Debug\net10.0\JavaProgram2.AssemblyInfoInputs.cache
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram2\obj\Debug\net10.0\JavaProgram2.AssemblyInfo.cs
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram2\obj\Debug\net10.0\JavaProgram2.csproj.CoreCompileInputs.cache
+C:\Users\jjger\OneDrive\Documents\Personal Projects\JavaToCSharp\JavaProgram2\obj\Debug\net10.0\JavaProgram2.sourcelink.json
